@@ -1,2 +1,0 @@
-# amit
-learning javascript codes
